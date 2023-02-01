@@ -1,0 +1,20 @@
+>M81347.1 Canis lupus connexin40 gene, complete cds
+>OP804221.1 Canis lupus isolate UZB_1453 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+>OP804220.1 Canis lupus isolate UZB_52 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+>OP804219.1 Canis lupus isolate UZB_51 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+>OP804217.1 Canis lupus isolate UZB_49 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+>OP804218.1 Canis lupus isolate UZB_50 large subunit ribosomal RNA gene, partial sequence; mitochondrial
+>OK052506.1 Canis lupus voucher CCH3 mitochondrion, complete genome
+>MT897151.1 Canis lupus haplotype 17 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897150.1 Canis lupus haplotype 16 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897149.1 Canis lupus haplotype 15 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897148.1 Canis lupus haplotype 14 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897147.1 Canis lupus haplotype 13 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897146.1 Canis lupus haplotype 12 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897145.1 Canis lupus haplotype 11 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897144.1 Canis lupus haplotype 10 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897143.1 Canis lupus haplotype 09 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897142.1 Canis lupus haplotype 08 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897141.1 Canis lupus haplotype 07 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897140.1 Canis lupus haplotype 06 toll-like receptor 9 (TLR9) gene, partial cds
+>MT897139.1 Canis lupus haplotype 05 toll-like receptor 9 (TLR9) gene, partial cds
